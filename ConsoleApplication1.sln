@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SodaMachineApplication", "SodaMachineApplication\SodaMachineApplication.csproj", "{2037BF6C-CC80-47FA-B1A8-C4EF127546B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SodaMachineApplication.Tests", "SodaMachineApplication.Tests\SodaMachineApplication.Tests.csproj", "{F7843B55-EA5E-4804-9ED0-04CDBABFBBC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SodaMachineExtendedConsole", "SodaMachineExtendedConsole\SodaMachineExtendedConsole.csproj", "{FCB80B0A-8891-448C-BF51-72348AE820B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2037BF6C-CC80-47FA-B1A8-C4EF127546B0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2037BF6C-CC80-47FA-B1A8-C4EF127546B0}.Debug|x86.Build.0 = Debug|Any CPU
+		{2037BF6C-CC80-47FA-B1A8-C4EF127546B0}.Release|x86.ActiveCfg = Release|Any CPU
+		{2037BF6C-CC80-47FA-B1A8-C4EF127546B0}.Release|x86.Build.0 = Release|Any CPU
+		{F7843B55-EA5E-4804-9ED0-04CDBABFBBC7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7843B55-EA5E-4804-9ED0-04CDBABFBBC7}.Debug|x86.Build.0 = Debug|Any CPU
+		{F7843B55-EA5E-4804-9ED0-04CDBABFBBC7}.Release|x86.ActiveCfg = Release|Any CPU
+		{F7843B55-EA5E-4804-9ED0-04CDBABFBBC7}.Release|x86.Build.0 = Release|Any CPU
+		{FCB80B0A-8891-448C-BF51-72348AE820B7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FCB80B0A-8891-448C-BF51-72348AE820B7}.Debug|x86.Build.0 = Debug|Any CPU
+		{FCB80B0A-8891-448C-BF51-72348AE820B7}.Release|x86.ActiveCfg = Release|Any CPU
+		{FCB80B0A-8891-448C-BF51-72348AE820B7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
